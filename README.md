@@ -1,7 +1,3 @@
-A well-crafted `README.md` file is crucial for providing context and instructions for your project. Here's a detailed example of how you might structure a `README.md` for your project, assuming it's a React application and a Node.js server.
-
----
-
 # MyRoadProject
 
 **MyRoadProject** is a web application designed to manage and analyze road conditions using a combination of React for the frontend and Node.js for the backend. This project leverages PostgreSQL for data storage and Google Earth Engine for advanced satellite image analysis.
